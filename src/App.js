@@ -11,6 +11,9 @@ function App() {
           alt='FreeCodeCamp logo'
         />
       </div>
+      <div className='click-counter-wrapper'>
+        
+      </div>
     </div>
   );
 }
