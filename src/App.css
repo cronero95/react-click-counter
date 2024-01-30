@@ -8,7 +8,7 @@ html, body {
   background-color: #1b1b32;
 }
 
-.APP {
+.App {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
